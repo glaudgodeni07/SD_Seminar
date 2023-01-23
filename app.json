@@ -1,0 +1,33 @@
+{
+  "id": "267d0c00-57df-4f91-b86a-1bd8bdeaad11",
+  "name": "SD_Seminar",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "Brief description of the Seminar Module",
+  "description": "Long escription of the Seminar Module",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
